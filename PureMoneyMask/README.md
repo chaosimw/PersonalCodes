@@ -1,8 +1,8 @@
 # Pure Money Mask
 
-This is an inplementation of money formatting using only pure JS.  
-It was developed because the most know plugins for this doesn't work in some Samsung tablets.  
-This code was tested in folowers browsers (mobile and desktop).  
+This is an inplementation of money formatting using only pure JS. It was developed because the most know plugins for this doesn't work in some Samsung tablets. 
+This code has been tested in the following browsers (mobile and desktop).  
+
 - Chrome  
 - Internet Explorer  
 - Firefox  
